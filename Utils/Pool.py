@@ -1,6 +1,6 @@
 from . import List
 
-def Pool(g):
+def getMons(g):
     pool = {
         "mon": [],
         "leg": []
