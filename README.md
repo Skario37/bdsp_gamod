@@ -1,7 +1,7 @@
 # bdsp_gamod
  
 # Requirements
-You will need [< Python 3.9](https://www.python.org/downloads/) to use this until I build executable.
+You will need < [Python 3.10](https://www.python.org/downloads/) to use this until I build executable.
 
 You also need to install [UnityPy](https://pypi.org/project/UnityPy/) module.
 And [PySide2](https://pypi.org/project/PySide2/) module.
